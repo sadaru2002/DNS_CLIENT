@@ -492,8 +492,3 @@ sudo tcpdump -i any port 443 -n
 
 ---
 
-# Authors
-
-**System Administration Assignment**  
-University of Sri Jayewardenepura
-
